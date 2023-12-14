@@ -1,0 +1,16 @@
+/* #background{
+    background-image: url(/img/Circle\ design.svg);
+    background-repeat: no-repeat;
+} */
+/* #img{
+    background-image: url(/img/Circle\ design.svg);
+    background-repeat: no-repeat;
+    width: 475px;
+    height: 475px;
+    flex-shrink: 0;
+} */
+#img{
+    background-image: url(/img/Circle\ design.svg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
