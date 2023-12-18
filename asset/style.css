@@ -10,7 +10,7 @@
     flex-shrink: 0;
 } */
 #img{
-    background-image: url(img/Circle\ design.svg);
+    background-image: url(/img/Circle\ design.svg);
     background-repeat: no-repeat;
     background-size: cover;
 }
